@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0111/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 散見簡牘合輯甘肅武威磨咀子十八號漢墓王杖十簡制詔丞相御史高皇帝以來至本二年勝甚哀老小高年受王杖上有鳩使百姓望見之比於節有敢妄罵詈毆之者比逆不道得出入官府郎節弟行馳道旁道市賣復毋所與如山東復有旁人養謹者常養扶持復除之明在蘭臺石室之中王杖不鮮明得更繕治之河平元年汝南西陵縣昌里先年七十受王杖部游徼吳賞使從者毆擊先用詫地大守上𤅊廷尉報罪名明白賞當棄市制詔御史曰年七十受王杖者比六百石入官廷不趨犯罪耐以上毋二尺告劾有敢徵召侵辱者比大逆不道建始二年九月甲辰下孝平皇帝元始五年幼伯生永平十五年受王杖蘭臺令第卅三御史令第𠦜三尚書令滅受在金
+  hash: sha256:cb91511a7bba7dcb666413cab543834d74cf0187464e5e656e224309cdfb3a1a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0111_CHANT_001-1a.1-h}
+metadata:
+  title: 甘肅武威磨咀子十八號漢墓王杖十簡
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0111.xml
+hash: sha256:8803bcff9e0d56afd9fda12a44fd82b334ea5c71f10356c6c08281e8fae9d5de
