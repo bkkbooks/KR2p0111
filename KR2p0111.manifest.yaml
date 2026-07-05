@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0111_001.yaml, hash: 'sha256:03656298af40e9f738bbd15e04c9181000138f20ddda253997b0f3b13c2957f4'}
+  - {seq: 1, filename: KR2p0111_001.yaml, hash: 'sha256:8803bcff9e0d56afd9fda12a44fd82b334ea5c71f10356c6c08281e8fae9d5de'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0111_001.markers.yaml, hash: 'sha256:37424a234ce98e5fd068cb40687299452b1618d044524319f9ea56647289b517'}
+  - {seq: 1, role: markers, filename: assets/KR2p0111_001.markers.yaml, hash: 'sha256:3b2ac2c33e538fa4e86f4a75089b21850a0ffabc362b7d81c517c4c77600fbfb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯甘肅武威磨咀子十八號漢墓王杖十簡
   type: section
   level: 1
-hash: sha256:f50a0740eb410cec4a44fdbc2ceadf0697cd7173dc2ddd13ed0b38fc577f99e2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6438dbdd484e763fe852473767c31a7817be5dd291e6fbf92eeebb3a53db21ac
