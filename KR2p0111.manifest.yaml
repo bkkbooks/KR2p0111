@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0111/v1
 canonical_location: https://kanripo.org/bkk/KR2p0111/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 甘肅武威磨咀子十八號漢墓王杖十簡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0111_001.yaml, hash: 'sha256:8803bcff9e0d56afd9fda12a44fd82b334ea5c71f10356c6c08281e8fae9d5de'}
+  - {seq: 1, filename: KR2p0111_001.yaml, hash: 'sha256:f9ea5e45270d4640fd1a5d559a6fc32ded90ce058317e4403a4e78b6cf3a71b3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0111_001.markers.yaml, hash: 'sha256:3b2ac2c33e538fa4e86f4a75089b21850a0ffabc362b7d81c517c4c77600fbfb'}
+  - {seq: 1, role: markers, filename: assets/KR2p0111_001.markers.yaml, hash: 'sha256:628db46a8c7df0200bff309afdd9213cbff14a5121a734a69fbc79c935fc3e29'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯甘肅武威磨咀子十八號漢墓王杖十簡
   type: section
   level: 1
-hash: sha256:6438dbdd484e763fe852473767c31a7817be5dd291e6fbf92eeebb3a53db21ac
+hash: sha256:c1b17d1aed116d6f4ee5e8c08e4a557d848b49b298f1f7c58978f9e74466e85a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
